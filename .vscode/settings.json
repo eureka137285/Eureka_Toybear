@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && chcp 65001 > nul && g++ *.cpp -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+    }
+}

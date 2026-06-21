@@ -1,0 +1,7 @@
+﻿# 顶层规则，匹配所有文件
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
